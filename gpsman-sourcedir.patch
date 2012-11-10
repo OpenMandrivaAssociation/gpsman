@@ -1,0 +1,12 @@
+diff -up ./gpsman.tcl.orig ./gpsman.tcl
+--- ./gpsman.tcl.orig	2008-12-12 21:45:01.000000000 +0100
++++ ./gpsman.tcl	2008-12-12 21:45:46.000000000 +0100
+@@ -232,7 +232,7 @@ switch $tcl_platform(platform) {
+ }
+ 
+  # path to directory containing program files
+-set SRCDIR gmsrc
++set SRCDIR /usr/share/gpsman
+ 
+ # all other default configuration is now done in file $SRCDIR/config.tcl
+ 
