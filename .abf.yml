@@ -1,6 +1,2 @@
 sources:
-  "gpsman-6.4.2.tgz:"	fbad61353782c9b0906ac68be17831c1067c9f95
-  "gpsman.desktop:"	15d245f64c21cf5e52ba09b51e9868fa2b9a49e0
-  "gpsman-icon.png:"	cf62b9bc1756aa1d307513ab3b44b96f1b65f8c4
-  "mb2gmn.1:"	92d50a12c83eb1c34f5ed1eea5f593e970e1b004
-  "mou2gmn.1:"	170c98f00434a1afcdee5225091ff3d9ca5a77d3
+  "gpsman-6.4.2.tgz": fbad61353782c9b0906ac68be17831c1067c9f95

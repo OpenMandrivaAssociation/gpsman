@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=gpsman
+GenericName=GPS Manager
+Comment=Graphical management of GPS data
+Exec=gpsman
+Icon=gpsman-icon
+Terminal=false
+Type=Application
+Categories=Network;HamRadio;

@@ -84,3 +84,10 @@ desktop-file-install --vendor="" \
 %attr(0644,root,root) %{_datadir}/applications/%{name}.desktop
 %attr(0644,root,root) %{_datadir}/pixmaps/*
 
+
+
+%changelog
+* Fri Mar 02 2012 Andrey Bondrov <abondrov@mandriva.org> 6.4.2-1mdv2011.0
++ Revision: 781714
+- imported package gpsman
+
