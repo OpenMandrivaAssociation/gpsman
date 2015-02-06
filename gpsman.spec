@@ -2,7 +2,7 @@
 
 Name:		gpsman
 Version:	6.4.2
-Release:	%mkrel 1
+Release:	2
 Summary:	A GPS manager
 Group:		Communications
 License:	GPLv3+
