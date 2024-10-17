@@ -6,7 +6,7 @@ Release:	2
 Summary:	A GPS manager
 Group:		Communications
 License:	GPLv3+
-URL:		http://www.ncc.up.pt/gpsman/wGPSMan_4.html
+URL:		https://www.ncc.up.pt/gpsman/wGPSMan_4.html
 Source0:	http://www.ncc.up.pt/gpsman/gpsmanhtml/gpsman-%{version}.tgz
 #man files for the utils, stolen from debian
 Source1:	mou2gmn.1
